@@ -1,6 +1,7 @@
 package com.example.demo.training;
 
-public class Trainer {
+public class Caustomer {
 
+int id;
 
 }
